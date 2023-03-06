@@ -17,5 +17,6 @@ enjoy looking into [Mithril.js](https://mithril.js.org/) for its simplicity and 
 ![](https://img.shields.io/badge/Code-ClojureScript-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Common%20Lisp-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&color=2bbc8a)
